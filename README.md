@@ -1,6 +1,7 @@
 # extend Data Dump Queries
 
-please use the following queries to generate a dump free of PII for us to replicate your environment.
+please use the following queries to generate a dump free of PII for us to replicate your environment. Please note that 2 files will be generated.
+dump_data_structure_only.sql and dump_data_without_pii.sql. Simply create a zip file from these 2 sql files and send it to us.
  
 ## Command 1: dump_data_structure_only.sql
 
